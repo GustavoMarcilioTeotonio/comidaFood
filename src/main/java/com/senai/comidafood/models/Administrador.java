@@ -1,4 +1,4 @@
-package com.senai.comidafood.models;
-
-public class Administrador {
-}
+//package com.senai.comidafood.models;
+//
+//public class Administrador {
+//}
